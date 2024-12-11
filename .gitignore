@@ -1,2 +1,4 @@
 auth.py
 /__pycache__*
+/data/test/*
+/data/full/*
